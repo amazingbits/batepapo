@@ -1,6 +1,6 @@
-##Sistema de Chat Online
+## Sistema de Chat Online
 
-####Tecnologias utilizadas
+#### Tecnologias utilizadas
 
 - Front-end
 
@@ -15,7 +15,7 @@ Demais tecnologias: JQuery e Font Awesome.
 * PHP
 * MySQL
 
-####Sobre o projeto
+#### Sobre o projeto
 
 Trata-se de um pequeno sistema de chat online que pode ser facilmente implementado em qualquer sistema web.
 
@@ -25,7 +25,7 @@ Lembrando que toda a ideia de "login" nesse sistema foi feito através de SESSIO
 
 Desenvolvi este chat com muito carinho e espero que alguém mais possa usá-lo.
 
-####Como utilizar
+#### Como utilizar
 
 Primeiramente você deve ter um servidor MySQL instalado na sua máquina e um bom SGBD (recomendo o Workbench).
 
