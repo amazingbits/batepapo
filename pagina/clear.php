@@ -1,0 +1,5 @@
+<?php  
+
+Painel::zerarMsg(true);
+
+?>
