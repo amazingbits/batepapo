@@ -43,4 +43,4 @@ Há dois arquivos que precisam ser editados:
  Após isso basta rodar um servidor PHP (utilizo o Apache) e rodar a aplicação
  
  
- Qualquer coisa, estou à disposição =)
+ Qualquer coisa, estou à disposição para tomar um café =)
